@@ -1,2 +1,0 @@
-cd /path/to/phoneassistant   # go to the project directory
-git remote add origin https://github.com/<frog-incorported>/phoneassistant.git
