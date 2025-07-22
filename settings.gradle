@@ -1,0 +1,2 @@
+rootProject.name = "VoiceLLMAssistant"
+include ':app'
